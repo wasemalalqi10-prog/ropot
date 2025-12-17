@@ -284,6 +284,9 @@ header a:hover{
     height: 50px;
     margin-right: 10px;
 }
+.names{
+    text-align: center;
+}
 @media (max-width:730px) {
      .container ul{
         display: none;
@@ -296,4 +299,5 @@ header a:hover{
         width: 100%;
     }
 }
+
 
