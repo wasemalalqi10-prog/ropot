@@ -124,20 +124,6 @@ header a:hover{
     text-align: center;
     color: gray;
 }
-.hero button{
-    position: absolute;
-    top: 30%;
-    border: none;
-    background-color: white;
-    color: black;
-    border-radius: 10px;
-    width: 100px;
-    height: 40px;
-    cursor: pointer;
-    font-weight: bold;
-    clip-path: polygon(20% 0%, 80% 0%, 100% 33%, 100% 80%, 100% 100%, 0 100%, 0% 80%, 0 0);
-    transition: 0.3s;
-}
 
 .hero button:hover{
     opacity: 0.7;
@@ -306,5 +292,8 @@ header a:hover{
        display: none;
      }
     
-
+    .singin{
+        width: 100%;
+    }
 }
+
